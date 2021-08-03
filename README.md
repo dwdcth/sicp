@@ -1,0 +1,3 @@
+# sicp
+
+learn sicp note
