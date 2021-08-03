@@ -1,0 +1,23 @@
+{
+    "name": "sicp",
+    "version": "1.0.0",
+    "description": "learn sicp note",
+    "main": "index.js",
+    "dependencies": {
+      "biwascheme": "^0.7.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/dwdcth/sicp.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/dwdcth/sicp/issues"
+    },
+    "homepage": "https://github.com/dwdcth/sicp#readme"
+  }
